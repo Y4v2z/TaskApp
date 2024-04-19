@@ -1,8 +1,8 @@
 AppColors = {
   CANCEL: '#F47373',
-  PENDİNG: '#FF8A65',
-  COMPLETED: '#37D67A',
-  ONGOİNG: '#2CCCE4',
-  WHITE: '#FFF',
+  PENDING: '#FF8A65',
+  COMPLATED: '#37D67A',
+  ONGOING: '#2CCCE4',
+  WHITE: '#FFFFFF',
 };
 export default AppColors;
